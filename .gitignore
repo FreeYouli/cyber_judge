@@ -18,3 +18,20 @@ build/
 docs/ppt-master/
 docs/cyber-judge/
 docs/node_modules/
+
+# 备份文件
+*backup*
+*.bak
+
+# PPT/报告文件
+*.pptx
+*.pdf
+*.docx
+!docs/images/*.png
+
+# Node.js (如无前端需求)
+node_modules/
+package.json
+package-lock.json
+ppt-master/
+cyber-judge/

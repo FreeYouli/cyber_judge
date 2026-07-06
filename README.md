@@ -74,17 +74,18 @@ cyber_judge/
 
 ## 📸 截图
 
-### 主界面
-![主界面](docs/images/main_interface.png)
-
-### 判决书展示
-![判决书](docs/images/judgment.png)
+### 主界面（现已支持四种主题）
+![主界面](docs/images/主界面.png)
+![主界面2](docs/images/主界面2.png)
 
 ### 雷达图
-![雷达图](docs/images/radar_chart.png)
+![雷达图](docs/images/雷达图.png)
 
-### 四种主题
-![四种主题](docs/images/themes.png)
+### 逻辑漏洞审计
+![漏洞审计](docs/images/逻辑漏洞审计.png)
+
+### 判决书展示
+![判决书](docs/images/判决书.png)
 
 ## 🤝 贡献
 
