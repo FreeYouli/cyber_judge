@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# 环境
+.env
+venv/
+.venv/
+
+# 数据（原始数据不同步，清洗后的也不同步）
+data/*.csv
+
+# IDE
+.vscode/
+.idea/
+
+# 日志
+logs/
+*.log
+
+# 系统
+.DS_Store
+Thumbs.db

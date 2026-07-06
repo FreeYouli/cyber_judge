@@ -1,0 +1,21 @@
+# 鐠ф稑宕ラ崚銈呯暭 - 閸氼垰濮╅崗銉ュ經
+import sys, os
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "src"))
+
+from PyQt5.QtWidgets import QApplication
+from PyQt5.QtGui import QIcon
+from gui.main_window import MainWindow
+
+def main():
+    app = QApplication(sys.argv)
+    app.setStyle("Fusion")
+    icon_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "resources", "icon.png")
+    if os.path.exists(icon_path):
+        app.setWindowIcon(QIcon(icon_path))
+
+    win = MainWindow()
+    win.show()
+    sys.exit(app.exec_())
+
+if __name__ == "__main__":
+    main()
