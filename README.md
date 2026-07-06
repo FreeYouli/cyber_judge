@@ -74,13 +74,17 @@ cyber_judge/
 
 ## 📸 截图
 
-![屏幕截图 2026-07-06 095636.png](..%2F..%2FPictures%2FScreenshots%2F%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-07-06%20095636.png)
-![屏幕截图 2026-07-06 095625.png](..%2F..%2FPictures%2FScreenshots%2F%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-07-06%20095625.png)
-![屏幕截图 2026-07-06 095612.png](..%2F..%2FPictures%2FScreenshots%2F%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-07-06%20095612.png)
-![屏幕截图 2026-07-06 095536.png](..%2F..%2FPictures%2FScreenshots%2F%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-07-06%20095536.png)
-![屏幕截图 2026-07-06 095349.png](..%2F..%2FPictures%2FScreenshots%2F%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-07-06%20095349.png)
-![屏幕截图 2026-07-06 095145.png](..%2F..%2FPictures%2FScreenshots%2F%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-07-06%20095145.png)
-![屏幕截图 2026-07-06 095028.png](..%2F..%2FPictures%2FScreenshots%2F%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-07-06%20095028.png)
+### 主界面
+![主界面](docs/images/main_interface.png)
+
+### 判决书展示
+![判决书](docs/images/judgment.png)
+
+### 雷达图
+![雷达图](docs/images/radar_chart.png)
+
+### 四种主题
+![四种主题](docs/images/themes.png)
 
 ## 🤝 贡献
 
